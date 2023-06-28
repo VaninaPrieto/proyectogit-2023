@@ -3,6 +3,14 @@
 *.log
 *.ref
 
+##Temporales
+*.Temp
+*.Tmp
+*.swp
+temp/
+tmp/
+
 ## Carpetas excluidos 
 logs/
 docs/
+node_modules/
